@@ -1,0 +1,16 @@
+D:\Centennial College\2nd semester\COMP 123 - Programming 2\wk12\assignment04\accounts\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Centennial College\2nd semester\COMP 123 - Programming 2\wk12\assignment04\accounts\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Centennial College\2nd semester\COMP 123 - Programming 2\wk12\assignment04\accounts\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+D:\Centennial College\2nd semester\COMP 123 - Programming 2\wk12\assignment04\accounts\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Centennial College\2nd semester\COMP 123 - Programming 2\wk12\assignment04\accounts\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Imran\Desktop\assignment04\accounts\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Imran\Desktop\assignment04\accounts\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Imran\Desktop\assignment04\accounts\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\assignment04\accounts\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Imran\Desktop\assignment04\accounts\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\accountGUI (1)\accountGUI\accounts\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\accountGUI (1)\accountGUI\accounts\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\accountGUI (1)\accountGUI\accounts\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+D:\accountGUI (1)\accountGUI\accounts\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\accountGUI (1)\accountGUI\accounts\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\accountGUI (1)\accountGUI\accounts\ClassLibrary\obj\Debug\ClassLibrary.pdb
